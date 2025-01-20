@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **ML and DL**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **shuvodevnath0188@gmail.com**
 
